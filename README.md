@@ -1,7 +1,7 @@
 # 📊 HR-Attrition-Analytics
 
 ### Description
-
+End-to-end HR Attrition Analytics project involving real-world data cleaning, SQL analysis, and Power BI visualization to identify key drivers of employee attrition.
 
 ---
 
