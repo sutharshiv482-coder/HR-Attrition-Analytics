@@ -14,7 +14,10 @@ End-to-end HR Attrition Analytics project involving real-world data cleaning, SQ
 
 
 ## 🛠️ Tools Used
-+ 
++ Python (Pandas)
++ SQL
++ Power BI
++ Jupyter Notebook
 
 
 ## 🧹 Data Cleaning & Preprocessing
