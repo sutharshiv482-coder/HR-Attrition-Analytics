@@ -28,10 +28,7 @@ End-to-end HR Attrition Analytics project involving real-world data cleaning, SQ
 
 
 ## 📈 Key Insights
-- Employees working overtime were more likely to leave.
-- Lower-paid employees showed higher attrition rates.
-- Low job satisfaction strongly correlated with turnover.
-- Most attrition occurred during the early years of employment.
+- 
 
 ## 📊 Dashboard Features
 - KPI Cards
