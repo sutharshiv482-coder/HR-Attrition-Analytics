@@ -31,12 +31,7 @@ End-to-end HR Attrition Analytics project involving real-world data cleaning, SQ
 - 
 
 ## 📊 Dashboard Features
-- KPI Cards
-- Department-wise Attrition Analysis
-- Salary vs Attrition Insights
-- Overtime Analysis
-- Employee Demographics
-- Interactive Filters
+- 
 
 ## 💡 Recommendations
 - Improve employee engagement programs.
