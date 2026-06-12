@@ -34,10 +34,7 @@ End-to-end HR Attrition Analytics project involving real-world data cleaning, SQ
 - 
 
 ## 💡 Recommendations
-- Improve employee engagement programs.
-- Monitor excessive overtime.
-- Review compensation strategies.
-- Strengthen onboarding and retention efforts.
+- 
 
 ## 🚀 Project Outcome
 Transformed raw HR data into actionable business insights that support workforce planning and retention strategies.
