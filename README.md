@@ -18,11 +18,14 @@ End-to-end HR Attrition Analytics project involving real-world data cleaning, SQ
 
 
 ## 🧹 Data Cleaning & Preprocessing
-- Removed duplicates
-- Handled missing values
-- Standardized data formats
-- Validated data quality
-
+- Checked dataset structure.
+- Renamed columns.
+- Handled missing values.
+- Removed duplicates.
+- Fixed inconsistent values.
+- Corrected data types.
+- Validated data quality.
+- Prepared data for analysis.
 
 ## 📈 Key Insights
 - 
