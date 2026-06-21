@@ -9,9 +9,6 @@ End-to-end HR Attrition Analytics project involving real-world data cleaning, SQ
 3. Is compensation a driver of attrition?
 4. Does working overtime increase the likelihood of leaving?
 5. Are dissatisfied employees more likely to quit?
-6. Is there a critical early-career exit window?
-7. Does lack of career growth push employees out?
-
 
 ## 🛠️ Tools Used
 + Python (Pandas)
