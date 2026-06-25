@@ -28,7 +28,10 @@ End-to-end HR Attrition Analytics project involving real-world data cleaning, SQ
 - Prepared data for analysis.
 
 ## 📈 Key Insights
-- 
+## 🔬1. R&D Department Attrition
++ The **R&D department** has the highest attrition rate at **35.42%**, indicating potential challenges in employee retention and engagement within this department.
+## 👥2. Employee Profile Most Likely to Leave
++ Employees with the highest attrition are typically **45–54 years old, divorced**, and working in **Laboratory Technician** or **Executive** roles.
 
 ## 📊 Dashboard Features
 - 
