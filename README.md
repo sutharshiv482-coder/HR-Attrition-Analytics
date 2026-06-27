@@ -28,15 +28,15 @@ End-to-end HR Attrition Analytics project involving real-world data cleaning, SQ
 - Prepared data for analysis.
 
 ## 📈 Key Insights
-## 🔬1. R&D Department Attrition
+### 🔬1. R&D Department Attrition
 - The **R&D department** has the highest attrition rate at **35.42%**, indicating potential challenges in employee retention and engagement within this department.
-## 👥2. Employee Profile Most Likely to Leave
+### 👥2. Employee Profile Most Likely to Leave
 - Employees with the highest attrition are typically **45–54 years old, divorced**, and working in **Laboratory Technician** or **Executive** roles.
-## 💰3.Impact of Compensation
+### 💰3.Impact of Compensation
 - Employees earning between **₹1,000–₹5,000 per month** experience the highest attrition rate (**31.11%**), suggesting that lower compensation may be a significant factor driving employee turnover.
-## 😊4.Overtime and Attrition
+### 😊4.Overtime and Attrition
 - Employees who **do not work overtime** show a higher attrition rate (**30.17%**) compared to those who work overtime, indicating that overtime may not be a primary driver of attrition in this dataset.
-## 😊5.Job Satisfaction and Attrition
+### 😊5.Job Satisfaction and Attrition
 - Employees with **Job Satisfaction scores of 1 or 2** are considerably more likely to leave the organization, highlighting a strong relationship between employee satisfaction and retention.
 ## 📊 Dashboard Features
 - 
