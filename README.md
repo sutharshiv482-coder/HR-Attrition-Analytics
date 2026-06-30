@@ -43,7 +43,7 @@ End-to-end HR Attrition Analytics project involving real-world data cleaning, SQ
 
 
 ## 💡 Recommendations
-- 
+- **Department** , **compensation** , **and job satisfaction** appear to be the strongest factors influencing employee attrition. Improving employee engagement in the R&D department, reviewing compensation for lower-income employees, and addressing dissatisfaction could help reduce turnover.
 
 ## 🚀 Project Outcome
 Transformed raw HR data into actionable business insights that support workforce planning and retention strategies.
