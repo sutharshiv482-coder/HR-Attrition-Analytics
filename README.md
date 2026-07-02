@@ -1,6 +1,6 @@
 # 📊 HR-Attrition-Analytics
 
-### Project Overview
+### 📌 Project Overview
 End-to-end HR Attrition Analytics project involving real-world data cleaning, SQL analysis, and Power BI visualization to identify key drivers of employee attrition.
 
 ## 🎯 Business Statement
