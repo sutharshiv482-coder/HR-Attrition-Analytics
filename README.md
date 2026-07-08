@@ -40,7 +40,13 @@ End-to-end HR Attrition Analytics project involving real-world data cleaning, SQ
 - Employees with **Job Satisfaction scores of 1 or 2** are considerably more likely to leave the organization, highlighting a strong relationship between employee satisfaction and retention.
 ## 📊 Dashboard Features
 - <img width="3072" height="1823" alt="Power BI Desktop 30-06-2026 17_29_12" src="https://github.com/user-attachments/assets/2657eea8-b95b-4555-87f5-978b46861299" />
-
+- KPI Cards: Total Employees, Total Attrition, Attrition Rate, and Average Monthly Income.
+- Department-wise Attrition Rate (Bar Chart).
+- Leavers by Age Group and Education Field (Bar Charts).
+- Job Role vs Leavers and Gender-wise Attrition (Bar Charts).
+- Attrition by Overtime (Donut Chart).
+- Monthly Income Band vs Attrition (Column Chart).
+- Job Satisfaction Slicer for interactive filtering.
 
 
 
