@@ -26,6 +26,7 @@ End-to-end HR Attrition Analytics project involving real-world data cleaning, SQ
 - ✅ Corrected data types.
 - ✅ Validated data quality.
 - ✅ Prepared data for analysis.
+> ✨ Clean data is the foundation of accurate insights and smarter decisions. ⭐
 
 ## 📈 Key Insights
 ### 🔬1. R&D Department Attrition
