@@ -1,52 +1,83 @@
 # 📊 HR Attrition Analytics Dashboard
 
-An interactive **HR Analytics Dashboard** built using **Python, SQL, and Power BI** to analyze employee attrition, identify workforce trends, and uncover the key factors influencing employee turnover. The project helps HR teams make data-driven decisions to improve employee retention and organizational performance.
+An interactive **HR Attrition Analytics Dashboard** built using **Python, SQL, and Power BI** to analyze employee turnover, identify workforce trends, and uncover the key drivers of attrition. This project transforms HR data into actionable insights that help organizations improve employee retention, optimize workforce planning, and support data-driven HR decision-making.
 
 ---
+
 # 🎯 Project Objective
 
-Develop an end-to-end HR analytics solution to identify attrition patterns, understand employee behavior, and provide actionable recommendations for improving workforce retention.
+Develop an end-to-end HR analytics solution to:
+
+- Analyze employee attrition patterns across the organization.
+- Identify the key factors influencing employee turnover.
+- Monitor workforce KPIs through an interactive dashboard.
+- Provide actionable insights that improve employee retention and organizational performance.
 
 ---
 
-## 🎯 Business Statement
-1. What is the overall attrition rate, and which departments are losing the most talent?
-2. What does the profile of a typical employee who leaves look like?
-3. Is compensation a driver of attrition?
-4. Does working overtime increase the likelihood of leaving?
-5. Are dissatisfied employees more likely to quit?
----
-# 📌 Business KPIs
+# 💼 Business Value
 
-- 👥 Total Employees
-- 🚪 Total Attrition
-- 📉 Attrition Rate (%)
-- 💰 Average Monthly Income
+Employee attrition directly impacts recruitment costs, productivity, employee morale, and business continuity. This dashboard enables HR leaders to identify high-risk employee segments, understand the reasons behind turnover, and implement targeted retention strategies based on data rather than assumptions.
 
 ---
-# 🛠️ Tools Used
+
+# ❓ Business Questions
+
+- What is the overall employee attrition rate?
+- Which department experiences the highest employee turnover?
+- What is the profile of employees most likely to leave?
+- Does compensation influence employee attrition?
+- Does overtime increase the likelihood of employees leaving?
+- Is employee satisfaction associated with higher attrition?
+
+---
+
+# 📌 Key Performance Indicators (KPIs)
+
+| KPI | Description |
+|------|-------------|
+| 👥 Total Employees | Total workforce size |
+| 🚪 Total Attrition | Number of employees who left |
+| 📉 Attrition Rate (%) | Percentage of employees who left |
+| 💰 Average Monthly Income | Average employee monthly salary |
+
+---
+
+# 🛠️ Technology Stack
 
 | Tool | Purpose |
 |------|----------|
-| Python (Pandas) | Data cleaning and preprocessing |
-| SQL | Data analysis and business insights |
-| Power BI | Dashboard development and visualization |
-| Jupyter Notebook | Data exploration and analysis |
+| **Python (Pandas)** | Data cleaning and preprocessing |
+| **SQL** | Business analysis and KPI calculations |
+| **Power BI** | Interactive dashboard development |
+| **Jupyter Notebook** | Data exploration and analysis |
 
 ---
 
-# 🧹 Data Cleaning & Preprocessing
+# 🔄 Project Methodology
 
-- Checked dataset structure
+### 1️⃣ Data Preparation
+- Examined dataset structure
 - Renamed columns for consistency
-- Handled missing values
+- Corrected data types
 - Removed duplicate records
-- Corrected inconsistent values
-- Fixed data types
-- Validated data quality
-- Prepared dataset for analysis
+- Handled missing values
+- Fixed inconsistent values
+- Validated overall data quality
 
-> ✨ Clean data is the foundation of reliable insights and better business decisions.
+### 2️⃣ Data Analysis
+- Performed exploratory data analysis (EDA)
+- Built SQL queries for business insights
+- Calculated HR KPIs
+- Identified attrition trends and patterns
+
+### 3️⃣ Dashboard Development
+- Designed interactive Power BI dashboard
+- Built KPI cards and analytical visuals
+- Added filters and slicers for dynamic reporting
+- Improved dashboard usability and business storytelling
+
+> **High-quality data is the foundation of reliable analytics and informed business decisions.**
 
 ---
 
