@@ -81,61 +81,95 @@ Employee attrition directly impacts recruitment costs, productivity, employee mo
 
 ---
 
-## 📈 Key Insights
-- The |**R&D department** has the highest employee **attrition rate (35.42%)**, meaning it is losing more employees than any other department. This suggests a need to **improve employee engagement**, **career growth opportunities**, and **workplace satisfaction** to reduce turnover and retain **skilled talent**.
-- Employees most likely to leave are those **aged 45–54**, who are **divorced**, and work as **Laboratory Technicians** or **Executives**. Focusing on **career development**, **work-life balance**, and employee support for these groups can help reduce attrition.
-- Employees **earning between ₹1,000–₹5,000 per month** have the **highest attrition rate (31.11%)**. This suggests that **lower salaries may be a key reason employees leave**, highlighting the need to review compensation and benefits to improve retention.
-- Employees who do not **work overtime** have a **higher attrition rate (30.17%)** than those who do. This suggests that **overtime is not the main reason employees leave**. Other factors, **such as job satisfaction**, **career growth**, or **salary**, may have a greater impact on employee attrition.
-- Employees with **low job satisfaction (scores of 1 or 2)** are more likely to leave the company. **Improving employee satisfaction through better work environments**, **career growth**, and recognition can help reduce attrition and retain talented employees.
----
-## 📊 Dashboard Features
-![HR Attrition Dashboard]
-( <img width="3072" height="1823" alt="Power BI Desktop 30-06-2026 17_29_12" src="https://github.com/user-attachments/assets/2657eea8-b95b-4555-87f5-978b46861299" />)
-# ⚙️ Dashboard Features
+# 📊 Dashboard Features
 
-- KPI Cards (Employees, Attrition, Attrition Rate, Average Income)
+![HR Attrition Dashboard](https://github.com/sutharshiv482-coder/HR-Attrition-Analytics/blob/main/Power%20BI%20Desktop%2028-06-2026%2015_10_35.png)
+
+- KPI Cards
 - Department-wise Attrition Analysis
 - Attrition by Age Group
 - Attrition by Education Field
-- Job Role vs Employee Attrition
+- Job Role vs Attrition
 - Gender-wise Attrition
 - Attrition by Overtime
-- Monthly Income Band Analysis
-- Interactive Job Satisfaction Slicer
+- Monthly Income Analysis
+- Interactive Job Satisfaction Filter
 
 ---
 
+# 📈 Key Business Insights
 
+### 🏢 Department Analysis
 
-## 💡 Business Recommendation
-- Improve employee engagement in the **R&D department**, **review compensation for lower-paid employees**, **increase career growth opportunities**, and **enhance job satisfaction** through **recognition**, **training**, and **work-life balance** initiatives to reduce attrition and retain top talent.
+- The |**R&D department** has the highest employee **attrition rate (35.42%)**, meaning it is losing more employees than any other department. This suggests a need to **improve employee engagement**, **career growth opportunities**, and **workplace satisfaction** to reduce turnover and retain **skilled talent**.
+
+### 👤 Employee Profile
+
+- Employees most likely to leave are those **aged 45–54**, who are **divorced**, and work as **Laboratory Technicians** or **Executives**. Focusing on **career development**, **work-life balance**, and employee support for these groups can help reduce attrition.
+
+### 💰 Compensation Analysis
+
+- Employees **earning between ₹1,000–₹5,000 per month** have the **highest attrition rate (31.11%)**. This suggests that **lower salaries may be a key reason employees leave**, highlighting the need to review compensation and benefits to improve retention.
+
+### ⏰ Overtime Analysis
+
+- Employees who do not **work overtime** have a **higher attrition rate (30.17%)** than those who do. This suggests that **overtime is not the main reason employees leave**. Other factors, **such as job satisfaction**, **career growth**, or **salary**, may have a greater impact on employee attrition.
+
+### 😊 Job Satisfaction
+
+- Employees with **low job satisfaction (scores of 1 or 2)** are more likely to leave the company. **Improving employee satisfaction through better work environments**, **career growth**, and recognition can help reduce attrition and retain talented employees.
+
 ---
+
+# 💡 Business Recommendations
+
+- Increase employee engagement initiatives within the **R&D department**.
+- Review compensation strategies for lower-income employees.
+- Strengthen career growth and internal promotion opportunities.
+- Improve employee recognition and workplace satisfaction programs.
+- Monitor high-risk employee groups through continuous HR analytics.
+- Use dashboard insights to support proactive retention planning.
+
+---
+
 # 📈 Business Impact
 
-Reducing employee attrition can **improve productivity**, **lower hiring and training costs**, **increase employee satisfaction**, and help the organization retain experienced talent for **long-term business success**.
+Implementing these insights can help organizations:
+
+- 📉 Reduce employee attrition
+- 💰 Lower recruitment and onboarding costs
+- 🚀 Improve workforce productivity
+- 😊 Increase employee satisfaction
+- 🎯 Enhance talent retention
+- 📊 Support strategic HR decision-making
 
 ---
+
 # 🧠 Skills Demonstrated
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Python (Pandas)
-- SQL Analysis
+- SQL
 - Power BI
 - HR Analytics
 - Dashboard Development
 - KPI Reporting
 - Business Intelligence
+- Data Visualization
+- Business Analysis
 
 ---
-# 🎯 Project Outcome
 
-This HR Attrition Analysis identified the key factors driving employee turnover, enabling the organization to make data-driven decisions that **improve employee retention**, **reduce attrition**, and build a more engaged and **productive workforce**.
-## 🚀 Project Outcome
-Transformed raw HR data into actionable business insights that support workforce planning and retention strategies.
+# 🚀 Project Outcome
+
+This project successfully transformed raw HR data into an interactive analytics solution that identifies the key drivers of employee attrition. The dashboard enables HR teams to monitor workforce trends, evaluate retention risks, and make data-driven decisions that improve employee engagement, reduce turnover, and support long-term organizational success.
 
 ---
 
 # 👨‍💻 Author
 
 **Shiv Suthar**
+
+---
+⭐ If you found this project useful, consider giving it a **Star** on GitHub.
