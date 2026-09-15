@@ -1,4 +1,3 @@
-````markdown
 # 📊 HR Attrition Analytics Dashboard
 
 An interactive **HR Attrition Analytics Dashboard** built using **Python, SQL, and Power BI** to analyze employee turnover, identify workforce trends, and uncover employee segments associated with higher attrition.
